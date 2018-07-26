@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LD1117
+D STMicroelectronics Linear Voltage Regulator
+K Linear Voltage Regulator
+$ENDCMP
+#
+#End Doc Library

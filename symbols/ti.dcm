@@ -5,4 +5,9 @@ D Texas Instruments CAN Transceiver, SOIC-8
 K Texas Instruments CAN Transceiver SOIC-8
 $ENDCMP
 #
+$CMP TCA9546A
+D TCA9546A Low Voltage 4-Channel I2C and SMBus Switch with Reset Function
+K TCA9546A I2C Multiplexer Switch
+$ENDCMP
+#
 #End Doc Library

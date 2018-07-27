@@ -1,0 +1,10 @@
+(module Drill_2.2mm (layer F.Cu) (tedit 5B5B2D75)
+  (fp_text reference drl (at 0 1.9) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value Drill_2.2mm (at 0.05 -2.05) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_circle (center 0 0) (end 1.204159 0) (layer F.SilkS) (width 0.1))
+  (pad "" np_thru_hole circle (at 0 0) (size 2.2 2.2) (drill 2.2) (layers *.Cu *.Mask))
+)

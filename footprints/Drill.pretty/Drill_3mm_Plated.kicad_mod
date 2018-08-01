@@ -1,0 +1,9 @@
+(module Drill_3mm_Plated (layer F.Cu) (tedit 5B61C64F)
+  (fp_text reference drl (at 0.01 2.39) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value Drill_3mm_Plated (at 0.04 -2.33) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad "" np_thru_hole circle (at 0 0) (size 3.5 3.5) (drill 3) (layers *.Cu *.Mask))
+)

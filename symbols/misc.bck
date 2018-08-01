@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP R_ThermalPad
+D Resistor w/ Thermal Pad
+K R Resistor Thermal Pad DPAK
+$ENDCMP
+#
+#End Doc Library

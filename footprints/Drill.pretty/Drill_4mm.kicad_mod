@@ -1,4 +1,5 @@
-(module Drill_4mm (layer F.Cu) (tedit 5B5B2BD8)
+(module Drill_4mm (layer F.Cu) (tedit 5B685F20)
+  (tags "Drill Mount Mounting Hole")
   (fp_text reference drl (at 0 2.8) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )

@@ -1,0 +1,18 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AD4002
+D Analog to Digital Converter
+K ADC Analog Digital Converter
+$ENDCMP
+#
+$CMP AD4006
+D Analog to Digital Converter
+K ADC Analog Digital Converter
+$ENDCMP
+#
+$CMP AD4010
+D Analog to Digital Converter
+K ADC Analog Digital Converter
+$ENDCMP
+#
+#End Doc Library

@@ -1,3 +1,8 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP NXP_LPC11U24
+D Mbed NXP LPC11U24 Microcontroller
+K mbed nxp lpc11u24 microcontroller mcu development board
+$ENDCMP
+#
 #End Doc Library

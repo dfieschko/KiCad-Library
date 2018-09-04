@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SiP32510
+D Load Switch 1.2V to 5.5V
+K Load Switch
+$ENDCMP
+#
+#End Doc Library

@@ -2,7 +2,7 @@ EESchema-DOCLIB  Version 2.0
 #
 $CMP LM70
 D SPI/MICROWIRE 10-Bit plus Sign Digital Temperature Sensor
-K Temp Temperature Sensor 
+K Temp Temperature Sensor
 $ENDCMP
 #
 $CMP LM75A

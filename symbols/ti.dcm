@@ -20,4 +20,9 @@ D TCA9546A Low Voltage 4-Channel I2C and SMBus Switch with Reset Function
 K TCA9546A I2C Multiplexer Switch
 $ENDCMP
 #
+$CMP UCC23511
+D UCC23511
+K Texas Instruments UCC23511 Opto-Compatible Single-Channel Isolated Gate Driver
+$ENDCMP
+#
 #End Doc Library

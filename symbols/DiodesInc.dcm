@@ -6,4 +6,9 @@ K AP63300 AP63301 Buck Switching Regulator
 F https://www.diodes.com/assets/Datasheets/AP63300-AP63301.pdf
 $ENDCMP
 #
+$CMP PMOS_DMG4435SSS
+D P-CHANNEL ENHANCEMENT MODE MOSFET
+F chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/viewer.html?pdfurl=https%3A%2F%2Fwww.diodes.com%2Fassets%2FDatasheets%2Fds32041.pdf&clen=406999&chunk=true
+$ENDCMP
+#
 #End Doc Library
